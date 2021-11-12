@@ -1,0 +1,15 @@
+{
+  "name": "api-traductor",
+  "version": "1.0.0",
+  "description": "Api Node.js Traductor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Vivar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.841.0",
+    "mysql": "^2.18.1"
+  }
+}

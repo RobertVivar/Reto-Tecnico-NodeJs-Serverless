@@ -1,0 +1,2 @@
+config: contiene todos los ajustes y la configuración de la aplicación; 
+por ejemplo, las claves de acceso a las APIs que utilicemos.
